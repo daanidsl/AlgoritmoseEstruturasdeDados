@@ -1,0 +1,56 @@
+﻿Matemática 166,67
+Selecionados
+José Ribeiro Nunes da Silva 200 600 0 0
+João Pereira Lemes 166,67 500 0 0
+Fila de Espera
+Maria Silva 133,33 400 0 0
+Ana da Silva 100 300 0 0
+Carmen Lúcia 66,67 100 100 0
+Joana Souza 66,67 100 75 25
+Maria João 66,67 100 50 50
+
+Física 100,00
+Selecionados
+Maria Silva 133,33 400 0 0
+Ana da Silva 100 300 0 0
+Fila de Espera
+Carmen Lúcia 66,67 100 100 0
+Joana Souza 66,67 100 75 25
+
+Química 366,67
+Selecionados
+Patrícia Pereira 466,67 1400 0 0
+Beatriz Silveira 366,67 1100 0 0
+Fila de Espera
+Carlos Costa 333,33 1000 0 0
+Maria João 66,67 100 50 50
+
+Estatística 33,33
+Selecionados
+Antônio Roberto da Silva 400 1200 0 0
+Carlos Costa 333,33 1000 0 0
+Francisco Almeida Alves 300 900 0 0
+Ana Clara 33,33 100 0 0
+Fila de Espera
+Amanda Silva 33,33 0 100 0
+
+Ciência da Computação 500,00
+Selecionados
+Rafaela Coutinho 566,67 1700 0 0
+Izabela Soares Silva 533,33 1600 0 0
+Gustavo Couto Ribeiro 500 1500 0 0
+Fila de Espera
+Amanda Silva 33,33 0 100 0
+
+Farmácia 266,67
+Selecionados
+José Roberto Silveira 266,67 800 0 0
+Fila de Espera
+Marcelo Rodrigues Leal 233,33 700 0 0
+
+Letras 233,33
+Selecionados
+Rogério Azevedo Costa 433,33 1300 0 0
+Marcelo Rodrigues Leal 233,33 700 0 0
+Fila de Espera
+
